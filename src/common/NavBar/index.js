@@ -16,8 +16,9 @@ function NavBar() {
       </a>
     </div>
   
-    <div id="navbarBasicExample" className="navbar-menu">
-      <div className="navbar-start">
+  
+      <div id="navbarBasicExample" className="navbar-menu">
+      <div className="navbar-start" style={{ justifyContent: "center" , flexGrow: 1 }}>
         <a className="navbar-item">
           Home
         </a>

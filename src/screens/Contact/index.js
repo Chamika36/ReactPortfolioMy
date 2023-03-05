@@ -6,12 +6,12 @@ function Contact() {
   return (
     <div class="columns p-5 m-5">
     <div className="column is-6 is-align-self-center has-text-centered">
-        <img className="homeimage contact" src={img5} width="70%" />
+        <img className="contact" src={img5} width="70%" />
     </div>
 
-    <div className="column is-6 is-align-self-center left-col content">
+    <div className="column is-align-self-center left-col content">
         <p className="sub-title">Contact</p><br />
-        <p className="font is-size-5">
+        <p className="font is-size-4">
             
                 Feel free to contact me.
                 <br />Visit my profiles.

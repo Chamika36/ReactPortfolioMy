@@ -7,9 +7,9 @@ function Personal() {
     <div className="columns p-5 m-5">
 
         <div className="column is-5 is-align-self-center left-col content">
-            <p className="title sub-title">Personal Details</p><br />
+            <p className="sub-title">Personal Details</p><br />
             <p>
-                <ul className="font is-size-5">
+                <ul className="font is-size-4">
                     <li><strong>Name</strong> - Chamika Madhushan</li>
                     <li><strong>Date</strong> - 19th May, 2000 </li>
                     <li><strong>Address</strong> - Balangoda, Sri Lanka</li>

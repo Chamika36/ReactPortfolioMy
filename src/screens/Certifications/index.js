@@ -7,10 +7,10 @@ function Certifications() {
   return (
     <div className="columns p-5 m-5">
       <div className="column is-6 is-align-self-center left-col content">
-        <p className="title is-2">Certifications</p>
+        <p className="sub-title">Certifications</p>
         <br />
         <p>
-          <dl className="font is-size-5">
+          <dl className="font is-size-4">
             <dt>
               <strong>2022 April</strong>
             </dt>
@@ -33,7 +33,7 @@ function Certifications() {
 
       <div className="column is-6 is-align-self-center has-text-centered">
         <img
-          className="image is-300x150"
+          className=""
           // width="640"
           height="360"
           src={img4}

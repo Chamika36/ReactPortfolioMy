@@ -11,7 +11,7 @@ function AboutMe() {
     </div>
     <div className="column is-7 is-align-self-center ml-6">
         <span className="title">Hello, I'm</span><br />
-        <span className="title has-text-weight-bold home-title"><strong>Chamika<br />Madhushan</strong></span><br /><br />
+        <span className=" has-text-weight-bold home-title"><strong>Chamika<br />Madhushan</strong></span><br /><br />
         <span className="title">Information Systems Undergraduate</span> 
     </div>
     </div>

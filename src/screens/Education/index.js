@@ -5,13 +5,13 @@ function Education() {
     return (
         <div className="columns p-6 m-5">
             <div className="column is-6 is-align-self-center has-text-centered pr-5">
-                <figure><img src={img3} className="contact" width="640" height="360" /></figure>
+                <figure><img src={img3} className="contact" width="100%"  /></figure>
             </div>
 
             <div className="column is-6 is-align-self-center left-col content mr-5">
-                <p className="title sub-title">Education</p><br />
+                <p className="sub-title">Education</p><br />
                 <p>
-                    <dl className="font is-size-5">
+                    <dl className="font is-size-4">
                         <dt><strong>2022 - Now</strong></dt>
                         <dd>BSc. in Information Systems Undergraduate
                             <br />University of Colombo School of Computing</dd>
